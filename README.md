@@ -1,1 +1,1 @@
-Project for Odin!
+Battle here with my first project for Odin! This took me a little bit of time, but it hope it's pretty good!
